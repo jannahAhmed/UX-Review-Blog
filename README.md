@@ -4,7 +4,7 @@ A modern blog website built with **Neubrutalism** design style using pure HTML &
 
 ## 📋 About
 
-This project is a bold and unconventional blog about tech, design, and digital culture. Built as **Assignment 4** to practice **Flexbox** layouts and master the trending **Neubrutalism** design style.
+This project is a bold and unconventional blog about tech, design, and digital culture. Built to practice **Flexbox** layouts and master the trending **Neubrutalism** design style.
 
 ## ✨ Key Features
 
@@ -73,4 +73,5 @@ This project is for educational purposes.
 ---
 
 **Made with ❤️ and lots of CSS Flexbox**﻿# UX-Review-Blog
+
 
